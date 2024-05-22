@@ -306,3 +306,28 @@ git stash -u
 clear
 ls -al
 git stash -u
+clear
+ls 
+ls -al
+git status 
+rm demostash.txt 
+ls
+ls -al
+vi demostash.txt
+ls -al
+git stash -u 
+rm demostash.txt 
+git add .
+git rm --cached intellipaat_training/
+-f
+git -f rm --cached intellipaat_training/
+git log 
+git add .
+git commit -m "this is my first 11 commit "
+git status 
+ls -al
+vi demostash.txt
+ls 
+git status 
+git stash -u 
+ls 

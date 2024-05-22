@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1716345568,,"wq"
+|2,0,1716346565,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,32 +28,50 @@
 |3,1,36,0,1,0,1716336316,"d"
 
 # File marks:
-'0  2  0  ~/demostash.txt
-|4,48,2,0,1716345568,"~/demostash.txt"
-'1  1  38  ~/demostash.txt
-|4,49,1,38,1716344720,"~/demostash.txt"
-'2  1  38  ~/demostash.txt
-|4,50,1,38,1716344720,"~/demostash.txt"
-'3  2  0  ~/intellipaat_training/critical1.txt
-|4,51,2,0,1716337655,"~/intellipaat_training/critical1.txt"
-'4  2  0  ~/intellipaat_training/critical.txt
-|4,52,2,0,1716337211,"~/intellipaat_training/critical.txt"
-'5  1  21  ~/intellipaat_training/demostash.txt
-|4,53,1,21,1716336877,"~/intellipaat_training/demostash.txt"
-'6  3  7  ~/intellipaat_training/.gitignore
-|4,54,3,7,1716336762,"~/intellipaat_training/.gitignore"
-'7  2  0  ~/intellipaat_training/new.html
-|4,55,2,0,1716336569,"~/intellipaat_training/new.html"
-'8  7  0  ~/intellipaat_training/.gitignore
-|4,56,7,0,1716336365,"~/intellipaat_training/.gitignore"
-'9  5  0  ~/intellipaat_training/.gitignore
-|4,57,5,0,1716336365,"~/intellipaat_training/.gitignore"
+'0  2  0  ~/critical.txt
+|4,48,2,0,1716346565,"~/critical.txt"
+'1  1  27  ~/demostash.txt
+|4,49,1,27,1716346208,"~/demostash.txt"
+'2  2  0  ~/demostash.txt
+|4,50,2,0,1716345568,"~/demostash.txt"
+'3  2  0  ~/demostash.txt
+|4,51,2,0,1716345568,"~/demostash.txt"
+'4  1  38  ~/demostash.txt
+|4,52,1,38,1716344720,"~/demostash.txt"
+'5  1  38  ~/demostash.txt
+|4,53,1,38,1716344720,"~/demostash.txt"
+'6  1  38  ~/demostash.txt
+|4,54,1,38,1716344720,"~/demostash.txt"
+'7  2  0  ~/intellipaat_training/critical1.txt
+|4,55,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+'8  2  0  ~/intellipaat_training/critical.txt
+|4,56,2,0,1716337211,"~/intellipaat_training/critical.txt"
+'9  1  21  ~/intellipaat_training/demostash.txt
+|4,57,1,21,1716336877,"~/intellipaat_training/demostash.txt"
 
 # Jumplist (newest first):
+-'  2  0  ~/critical.txt
+|4,39,2,0,1716346565,"~/critical.txt"
+-'  1  0  ~/critical.txt
+|4,39,1,0,1716346542,"~/critical.txt"
+-'  1  27  ~/demostash.txt
+|4,39,1,27,1716346208,"~/demostash.txt"
+-'  1  27  ~/demostash.txt
+|4,39,1,27,1716346208,"~/demostash.txt"
+-'  2  0  ~/demostash.txt
+|4,39,2,0,1716345568,"~/demostash.txt"
+-'  2  0  ~/demostash.txt
+|4,39,2,0,1716345568,"~/demostash.txt"
+-'  2  0  ~/demostash.txt
+|4,39,2,0,1716345568,"~/demostash.txt"
 -'  2  0  ~/demostash.txt
 |4,39,2,0,1716345568,"~/demostash.txt"
 -'  1  0  ~/demostash.txt
 |4,39,1,0,1716345542,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1716345542,"~/demostash.txt"
+-'  1  38  ~/demostash.txt
+|4,39,1,38,1716344720,"~/demostash.txt"
 -'  1  38  ~/demostash.txt
 |4,39,1,38,1716344720,"~/demostash.txt"
 -'  2  0  ~/intellipaat_training/critical1.txt
@@ -64,6 +82,54 @@
 |4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
 -'  2  0  ~/intellipaat_training/critical1.txt
 |4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  2  0  ~/intellipaat_training/critical1.txt
+|4,39,2,0,1716337655,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
+-'  1  0  ~/intellipaat_training/critical1.txt
+|4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
 -'  1  0  ~/intellipaat_training/critical1.txt
 |4,39,1,0,1716337616,"~/intellipaat_training/critical1.txt"
 -'  1  0  ~/intellipaat_training/critical1.txt
@@ -88,6 +154,54 @@
 |4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
 -'  2  0  ~/intellipaat_training/critical.txt
 |4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
+-'  2  0  ~/intellipaat_training/critical.txt
+|4,39,2,0,1716337211,"~/intellipaat_training/critical.txt"
 -'  1  0  ~/intellipaat_training/critical.txt
 |4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
 -'  1  0  ~/intellipaat_training/critical.txt
@@ -104,161 +218,54 @@
 |4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
 -'  1  0  ~/intellipaat_training/critical.txt
 |4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  1  21  ~/intellipaat_training/demostash.txt
-|4,39,1,21,1716336877,"~/intellipaat_training/demostash.txt"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  3  7  ~/intellipaat_training/.gitignore
-|4,39,3,7,1716336762,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
--'  1  0  ~/intellipaat_training/.gitignore
-|4,39,1,0,1716336695,"~/intellipaat_training/.gitignore"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
+-'  1  0  ~/intellipaat_training/critical.txt
+|4,39,1,0,1716337168,"~/intellipaat_training/critical.txt"
 
 # History of marks within files (newest to oldest):
 
-> ~/demostash.txt
-	*	1716345565	0
+> ~/critical.txt
+	*	1716346562	0
 	"	2	0
 	^	2	0
-	.	1	29
-	+	1	29
+	.	1	25
+	+	1	25
+
+> ~/demostash.txt
+	*	1716346204	0
+	"	1	27
+	^	1	28
+	.	1	27
+	+	1	27
 
 > ~/intellipaat_training/critical1.txt
 	*	1716337651	0
