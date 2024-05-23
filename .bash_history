@@ -331,3 +331,150 @@ ls
 git status 
 git stash -u 
 ls 
+clear
+ls
+ls -al
+vi demorevert.txt
+git status 
+rm demostash2.txt 
+git status 
+git add demorevert.txt 
+clear
+git status 
+git commit -m "done by mistake"
+clear
+git log 
+git revert 560b15b26e0ebff0f028aa7d36d639ca4ea69a0e
+clear
+git log 
+git revert f345ddec3a39e9dd528845903d09213a345ad5be
+git log
+clear 
+git log 
+clear 
+git log --oneline 
+git reset --hard a78490b
+git log 
+clear
+git log --oneline 
+git reset --hard f345dde
+git log 
+git reset --hard 16a7fa2f6361fbb654bb520f07c4da2ff96ac928
+clear
+git log 
+ls -al
+git status 
+ls
+git log --oneline 
+vi hardreset.txt 
+ls
+git add hardreset.txt 
+git status 
+git commit -m "example to show hardreset"
+ls 
+git status 
+git commit -a -m "for hard reset "
+git reset
+ls
+git ststus
+git status 
+ls
+git log --onelien
+git log --oneline 
+git reset --hard 4dc58ca
+ls
+git log --oneline 
+git reset --hard 16a7fa2
+ls
+clear
+vi demoreset.txt
+ls
+git add demoreset.txt 
+git status 
+git commit -m "example of reset hard , mixed"
+git status 
+git commit -a -m "example for reset mixed ,soft"
+git stat
+git status 
+git log oneline 
+git log --oneline 
+git reset soft e099e1b
+git reset --soft e099e1b
+git log --oneline 
+git status 
+ls
+git log 
+git reset --mixed e099e1bf39e256e800d160d27eb70342a6fccb51
+git log 
+git status 
+clear
+git status
+cat demoreset.txt
+git status 
+git add demoreset.txt
+git status 
+git log --oneline
+git show e099e1b
+clear
+git add demoreset.txt
+git status
+ls
+git log --oneline 
+git reset --hard 16a7fa2
+ls
+vi demoreset.txt
+git stst
+git status 
+git add .
+git status 
+git commit -m "hard reset comand "
+git status 
+git git log --oneline 
+git log --oneline 
+vi demoreset1.txt
+git status 
+git add .
+git status 
+git commit -m "mov to working directory"
+git status 
+git log --oneline 
+git reset --mixed 10d6467
+git status 
+git log --oneline
+clear
+git branch 
+git branch -m main 
+git branch 
+git remote add origin https://github.com/kunal0000007/5thmaydevops.git
+git remote -v 
+clear
+ls -al
+git push -u origin main
+clear
+ls-al
+ls -al
+git push -u origin main 
+git config --list
+git push -u origin main 
+git remote add origin https://github.com/kunal0000007/5thmaydevops.git
+clear
+git config --list
+git config --global user.name "kunal0000007"
+git config --global user.email "priyadarshi9992@gmail.com"
+git config --list
+ls -al
+clear
+git remote add origin https://github.com/kunal0000007/5thmaydevops.git
+git remote -v
+git push -u origin main 
+clear
+git remote -v 
+git push -u origin main 
+clear
+ls
+clear
+git remote =v
+git remote -v
+git push -u origin main 
+git remote -v
+git push -u origin main 
